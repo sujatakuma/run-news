@@ -1,0 +1,24 @@
+.New-Expense{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    text-align: left;
+}
+
+
+.New_Expense_wrap label{
+    font-weight: 1rem;
+    margin-bottom: 0.5rem;
+    display: block;
+    
+}.New_Expense_wrap input{
+    font: inherit;
+    border-radius: 6px;
+    width: 20rem;
+    max-width: 100%;
+    border: 1px solid white;
+    padding: 0.5rem;
+}.New_Expense_action{
+    text-align: right;
+    margin-top: 30px;
+}

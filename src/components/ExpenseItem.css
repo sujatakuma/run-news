@@ -1,0 +1,33 @@
+.flex {
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
+    padding: 2px;
+    border-radius: 4px;
+    border: 1px solid red;
+    color: brown;
+    background-color: black;
+    font-size: 2rem;
+
+}
+
+.item {
+    margin-left: 10px;
+    padding: 3px;
+
+}
+
+.description {
+    margin-left: 10px;
+    padding: 3px;
+
+    color: aliceblue;
+}
+
+.price {
+    right: 30px;
+    margin-left: 10px;
+    padding: 3px;
+    position: absolute;
+
+}

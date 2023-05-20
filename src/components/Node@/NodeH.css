@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.flex{
+    display: flex;
+    margin: 2px;
+    padding: 2px;
+    background-color:yellow;
+}h1{
+    font-size: 60px;
+}

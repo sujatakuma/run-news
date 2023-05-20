@@ -1,0 +1,33 @@
+.note {
+    width: 270px;
+    border-radius: 7px;
+    background: white;
+    box-shadow: 0px 3px 15px rgb(56, 48, 65);
+    padding: 10px;
+    margin: 16px;
+    float: left;
+
+}
+
+.node h1 {
+    font-size: 1rem;
+    margin-bottom: 6px;
+}
+
+.node p {
+    margin-bottom: 10px;
+    font-size: 0.75rem;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+
+button {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: yellow;
+    border: 1px solid yellow;
+    place-items: end;
+
+}

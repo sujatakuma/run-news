@@ -1,0 +1,17 @@
+*{
+    margin: 0; padding: 0;
+}
+ul{
+    display: flex;
+    text-decoration: none;
+    flex-direction: row;
+}
+.nav li{
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    color: black;
+    margin: 5px;
+    padding: 2px;
+    
+}

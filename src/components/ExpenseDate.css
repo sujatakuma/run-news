@@ -1,0 +1,10 @@
+.expense_item{
+    color: brown;
+    border: 2px solid gray;
+}
+.expense_item_description {
+    color: aqua;
+    border: 2px solid sandybrown;
+    height: 50px;
+    width: 200px;
+}

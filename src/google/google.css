@@ -1,0 +1,27 @@
+.flex{
+    margin: 10px ;
+    padding: 5px;
+
+}
+.center_div{
+    height: 200px;
+    width: 400px;
+    align-items: center;
+    border-radius: 2px;
+    border: 2px solid royalblue;
+
+}input{
+    margin: 5px;
+    padding: 2px;
+    border: none;
+    text-align: center;
+}.input{
+    border: none;
+}
+.gride{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    border: 2px solid yellow;
+    height: 150px;
+    width: 300px;
+}
