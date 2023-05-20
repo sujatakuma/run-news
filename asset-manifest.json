@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Newract/static/css/main.a9df9c84.css",
+    "main.js": "/Newract/static/js/main.6b64c610.js",
+    "index.html": "/Newract/index.html",
+    "main.a9df9c84.css.map": "/Newract/static/css/main.a9df9c84.css.map",
+    "main.6b64c610.js.map": "/Newract/static/js/main.6b64c610.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9df9c84.css",
+    "static/js/main.6b64c610.js"
+  ]
+}
